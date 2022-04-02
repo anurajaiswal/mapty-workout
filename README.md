@@ -3,6 +3,7 @@
 ## Project-Description 
 #### It is  a web app where users can keep a track and a log of their exercises.
 ####  It also keep track of the location where they did it and the date on which they did it.
+#### By clicking on exercise log , it takes us to that location on the map.
 ## Why I did the project
 #### I did this project to practice object oriented programming concepts like constructor function, objects and its method, inheritence, polymorphism, encapsultion and many more advanced JavaScript concepts.
 
